@@ -505,8 +505,8 @@
 }
 
 .banner-section .image-column .image img{
-	/* max-width:inherit;
-	width:auto; */
+	max-width:inherit;
+	width:auto;
 }
 
 .banner-section .owl-dots{
