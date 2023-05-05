@@ -20,6 +20,54 @@
 ====================================================================
 
 ***/
+/* add display */
+
+.ad-display {
+	
+	position: absolute fixed ;
+	width: auto;
+	height: 40px;
+	bottom: 10px;
+	color:  #808080;
+	background-color: white ;
+	text-transform: capitalize;
+	text-align: center;
+	padding-top: 10px;
+	
+	
+}
+
+/* 
+.ad-display button {
+	color: #000;
+	left: 10px;
+	bottom: 3px;
+	background-color: transparent;
+	border-color: #808080;
+	border-radius: 1px;
+	border-top: #808080;
+	position: relative;
+	border-style: solid;
+	width: 80px;
+	align-items: center;
+	cursor: pointer;
+}
+
+.ad-display button:hover{
+	color: #808080;
+	left: 10px;
+	bottom: 3px;
+	background-color: white;
+	border-color: #808080;
+	border-radius: 1px;
+	border-top: #808080;
+	position: relative;
+	border-style: solid;
+	width: 60px;
+	height: 30px;
+	
+	align-items: center;
+} */
 
 
 .search-popup{
@@ -243,11 +291,12 @@
 	overflow:hidden;
 	padding-top:150px;
 	padding-bottom:0px;
-	background-color:#beb996;
+	background-color: rgb(59, 53, 53) ;
+	
 }
 
 .banner-section .slide.style-two{
-	background-color:#a79bac;
+	background-color:rgb(59, 53, 53);
 }
 
 .banner-section .icon-layer-one{
@@ -260,7 +309,7 @@
 	transform: translateX(300px);
     background-position: center bottom;
     background-repeat: no-repeat;
-	background-size:cover;
+	background-size: cover;
 	transition: all 900ms ease;
     -moz-transition: all 900ms ease;
     -webkit-transition: all 900ms ease;

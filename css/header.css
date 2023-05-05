@@ -9,7 +9,7 @@
 .main-header{
 	position:absolute;
 	left:0px;
-	top:0px;
+	top:20px;
 	z-index:99;
 	width:100%;
 	padding-top:15px;
@@ -293,7 +293,7 @@
 .main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current > a{
 	opacity:1;
-	color:#111111;
+	color: #808080;;
 }
 
 .header-style-two .main-menu .navigation > li:hover > a,
