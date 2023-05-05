@@ -1257,7 +1257,7 @@
 	position:relative;
 	border-radius:8px;
 	overflow:hidden;
-	background-color:#beb996;
+	background-color:#0087CF;
 }
 
 .beverage-block .inner-box .image img{
@@ -1350,7 +1350,7 @@
 	overflow:hidden;
 	border-radius:50%;
 	text-align:center;
-	background-color:rgba(190,185,150,0.95);
+	background-color:#0087CF;
 	background-position:center center;
 	background-repeat:no-repeat;
 }

@@ -486,7 +486,7 @@ img{
 
 .btn-style-four:hover{
 	color: #ffffff;
-	background-color:#de9190;
+	background-color:#0087CF;
 }
 
 /* Social Icon One */
@@ -532,11 +532,11 @@ img{
 }
 
 .social-icon-one li a:hover{
-	color: #de9190;
+	color: #0087CF;
 }
 
 .theme_color{
-	color:#de9190;
+	color:#0087CF;
 }
 
 .preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../images/icons/preloader.svg); background-size:100px; }
@@ -621,7 +621,7 @@ img{
 
 .sec-title-two .title{
 	position:relative;
-	color:#de9190;
+	color:#0087CF;
 	font-size:18px;
 	font-weight:400;
 	letter-spacing:2px;
