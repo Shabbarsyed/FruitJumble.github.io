@@ -22,7 +22,20 @@
 ***/
 /* add display */
 
-
+/* .ad-display {
+	position: fixed;
+	width: auto;
+	height: 40px;
+	bottom: 10px;
+	color:  #808080;
+	background-color: white ;
+	text-transform: capitalize;
+	text-align: center;
+	padding-top: 10px;
+	
+	
+	
+} */
 
 /* 
 .ad-display button {

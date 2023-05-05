@@ -5,12 +5,12 @@
 ====================================================================
 
 ***/
-.ad-display div{
+.ad-display > div{
 	position: absolute;
 	width: 100%;
 	z-index: 99;
 	height: 40px;
-	bottom: 10px;
+	
 	background-color: white ;
 	text-transform: capitalize;
 	text-align: center;
@@ -20,7 +20,7 @@
 }
 
 
-.ad-display p {
+.ad-display > p {
 	color:  #808080;
 	text-align: center;
 	top: 10px;
