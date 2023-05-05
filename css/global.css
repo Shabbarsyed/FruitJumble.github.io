@@ -354,7 +354,7 @@ img{
 
 .btn-style-one:hover{
 	color: #ffffff;
-	background-color:#91ad41;
+	background-color:#0087CF;
 }
 
 /* Btn Style Two */
@@ -392,12 +392,12 @@ img{
 }
 
 .btn-style-two:hover .icon{
-	background-color:#111111;
+	background-color:#a1a1a1;
 }
 
 .btn-style-two:hover{
 	color: #ffffff;
-	background-color:#de9190;
+	background-color:#0087CF;
 }
 
 /* Btn Style Three */
@@ -441,7 +441,7 @@ img{
 
 .btn-style-three:hover{
 	color: #ffffff;
-	background-color:#de9190;
+	background-color:#0087CF;
 }
 
 /* Btn Style Four */

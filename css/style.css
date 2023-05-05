@@ -549,7 +549,7 @@
 	content:'/';
 	right:-17px;
 	top:-1px;
-	color:#d6d1ad;
+	color:#0087CF;
 	-webkit-transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
@@ -1037,7 +1037,7 @@
 .banner-section-two .owl-nav .owl-next:hover{
 	color:#222222;
 	border-color:#ffffff;
-	background-color:#ffffff;
+	background-color:#0087CF;
 }
 
 /*** 
