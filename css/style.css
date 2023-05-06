@@ -21,7 +21,83 @@
 
 ***/
 /* add display */
+.social {
+	position: fixed;
+	top: 300px;
+}
 
+.social ul {
+	padding: 10px;
+	transform: translate(-270px, 0);
+}
+
+.social ul li {
+	display: block;
+	margin: 10px;
+	background: rgba(137, 110, 255, 0.979);
+	width: 300px;
+	text-align: right;
+	padding: 10px;
+	border-radius: 0 30px 30px 0;
+	transition: all 1s;
+}
+
+.social ul li:hover {
+	transform: translate(110px, 0);
+	background: rgba(0, 0, 0, 0.4);
+}
+
+.social ul li:hover a {
+	color: #ffffff;
+}
+
+.social ul li:hover i {
+	color: #fff;
+	background: rgba(0, 0, 0, 0.36);
+	transform: rotate(360deg);
+	transition: all 1s;
+}
+
+.social ul li i {
+	margin-left: 10px;
+	color: white;
+
+	padding: 15px;
+	border-radius: 50%;
+	/* width: 30px;
+	height: 30px; */
+	font-size: 20px;
+	transform: rotate(0deg);
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.btn.book-now {
+	background: rgba(137, 110, 255, 0.979);
+	border-radius: 0;
+	color: white;
+	display: inline-block;
+	font-size: 1rem;
+	height: 50px;
+	line-height: 50px;
+	position: fixed;
+	right: 0;
+	top: 400px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-webkit-transform: rotate(-90deg);
+	transform-origin: bottom right;
+	width: 150px;
+	/* Hover styles, 
+	media queries */
+  }
 /* .ad-display {
 	position: fixed;
 	width: auto;
@@ -291,7 +367,7 @@
 	overflow:hidden;
 	padding-top:150px;
 	padding-bottom:0px;
-	background-color: rgb(59, 53, 53) ;
+	background-color: rgb(27, 26, 26) ;
 	
 }
 

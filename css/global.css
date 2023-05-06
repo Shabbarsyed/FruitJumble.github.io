@@ -86,7 +86,7 @@
 
 body {
 	font-size:14px;
-	color:#777777;
+	color: black;
 	line-height:1.7em;
 	font-weight:400;
 	background:#ffffff;
@@ -329,7 +329,7 @@ img{
 	overflow:hidden;
 	overflow: hidden;
 	border-radius: 50px;
-	background-color:#de9190;
+	background-color:#808080;
 	padding:7px 35px 6px 7px;
 	text-transform: capitalize;
 	font-family: 'Poppins', sans-serif;
@@ -562,7 +562,7 @@ img{
 
 .sec-title .title{
 	position:relative;
-	color:#beb996;
+	color:black;
 	font-size:24px;
 	font-weight:400;
 	letter-spacing:2px;
@@ -571,7 +571,7 @@ img{
 }
 
 .sec-title h2{
-    color:#27272f;
+    color: #0087CF;
     font-weight: 600;
     line-height: 1.3em;
 	margin-top:8px;
